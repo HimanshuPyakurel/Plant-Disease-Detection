@@ -1,5 +1,5 @@
 # Plant Disease Detection Using Deep Learning
-<p align="lect">Plant diseases detection is the process of detecting diseases from the plant. The infections or its indications, for example, coloured spots or lines, are usually visible on the plant's leaves or stem. Based on that, the diseases are determined. In this project, i am using Convoluitona neural Netowork for classifying Leaf images into 39 Different Categories. The Convolutional Neural Code build in Pytorch Framework. For Training, i used Plant village dataset. Dataset Link is given below.
+<p align="lect">Plant diseases detection is the process of detecting diseases from the plant. The infections or its indications, for example, coloured spots or lines, are usually visible on the plant's leaves or stem. Based on that, the diseases are determined. In this project, Convolutional Neural Network is used for classifying Leaf images into 39 Different Categories. CNN Code build in Pytorch Framework and for Training, Plant village dataset has been used. Dataset Link is provided below.
 </p>
 
 <p align="center">
