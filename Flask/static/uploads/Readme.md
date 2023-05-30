@@ -1,2 +1,2 @@
-#### Why this folder ?
-At the Runtime what ever local image will test that are saved in this folder and use this folder path in model prediction phase. 
+#### Why this static/uploads folder ?
+Any local images that are tested at runtime are saved in this folder and this folder path is use in the model prediction phase.
